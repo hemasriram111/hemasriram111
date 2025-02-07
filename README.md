@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/hemasriramganti" target="blank"><img src="https://img.shields.io/twitter/follow/hemasriramganti?logo=twitter&style=for-the-badge" alt="hemasriramganti" /></a> </p>
 
-- 🔭 I’m currently working on Technical hub **application tracking system**
+- 🔭 I’m currently working on Technical hub **Genrative Ai intern**
 
 - 🌱 I’m currently learning **c++, sql**
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **hemasriram111@gmail.com**
 
-- 📄 Know about my experiences [https://lavender-alix-19.tiiny.site](https://lavender-alix-19.tiiny.site)
+- 📄 Know about my experiences [[Hema sriram's resume]([url](https://drive.google.com/file/d/1ZINUO7K5a7NaX-WgS9vLeQTwvb2AKHhs/view?usp=drive_link)))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
